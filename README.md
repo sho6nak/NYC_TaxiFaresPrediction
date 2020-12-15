@@ -1,1 +1,1 @@
-# NYC_TaxiFaresPrediction
+# NYC-Taxi-Fares-Prediction
